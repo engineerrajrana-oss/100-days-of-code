@@ -1,2 +1,2 @@
 # 100-days-of-code
- I Harshit Raj is btech 1st year student of computer science at UPES dehradun and  currently I am working on 100 days of code.
+ I Harshit Raj Rana student of a btech cse from UPES Dehradun  is very exicted to share my all the code which I am working from very 1st day from when this task is assigend.
